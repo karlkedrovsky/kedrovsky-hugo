@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
+@tailwind preflight;
+
+@tailwind components;
+
+@tailwind utilities;
+
+p {
+  @apply .text-black .leading-normal .pb-4 .font-thin;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply .text-black .pb-4 .font-heading .font-hairline;
+}
+
+ul {
+  @apply .pb-4;
+}
+
+li {
+  @apply .text-black .leading-normal .pb-2 .font-thin;
+}
+
+a, nav li a {
+  @apply .text-blue-dark .no-underline;
+}
+
+a:hover, nav li a:hover {
+  @apply .underline;
+}

@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL | sanitizeurl }}
+<section class="container mx-auto px-4 pt-4">
+  <article class="pt-4">
+    {{ if .Title }}<h2 class="pb-4 font-heading font-hairline">{{ .Title }}</h2>{{ end }}
+    {{ .Content }}
+  </article>
+</section>
+{{ partial "footer.html" . }}
