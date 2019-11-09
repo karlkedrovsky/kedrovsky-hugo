@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+#: exec_target = cli
+
+## Runs the gulp build
+##
+## Usage: fin build
+
+npm run gulp $@
