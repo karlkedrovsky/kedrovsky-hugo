@@ -1,12 +1,14 @@
 ---
 title: "Resume"
 date: 2018-04-07T15:48:49-05:00
+menu: "main"
+weight: 20
 draft: false
 ---
 
 I'm a highly motivated self starter with experience in personnel and
 technical management, programming, analysis, systems architecture,
-design, testing, training/mentoring and project leadership. Most
+technical design, testing, training/mentoring and project leadership. Most
 recently I've been focused on delivering sites based on open source
 content management systems, specifically Drupal. I also have extensive
 experience in Java/J2EE programming and architecture as well as
@@ -14,14 +16,14 @@ providing technical leadership on large scale projects.
 
 ### Work Experience
 
-#### VML - Solutions Architect and Group Director Of Technology
-*August 2004 – Present*
+#### VMLY&R - Managing Director Of Technology - Solutions Architect 
+*August 2004 - Present*
  
 Manage multiple groups of technologists responsible for delivering technical project implementations and provide leadership for the global software development and architecture practice.
 
 Resposibilities include:
 
-* Provide technical leadership and consulting across all groups at VML
+* Provide technical leadership and consulting across all groups at VMLY&R
   leveraging my experience across a wide range of technologies and
   client work.
 * Outline technical solutions and architectures, working with
@@ -32,7 +34,7 @@ Resposibilities include:
   implementation platforms and technologies to ensure they are used in
   the best way possible. Constantly looking for and evaluating new
   technologies, platforms and potential partners that can provide
-  value to clients and additional revenue streams to VML.
+  value to clients and additional revenue streams to VMLY&R.
 * Improve existing staff through formal training, mentoring,
   on-boarding processes and operational and tooling improvements.
 * Work closely with external partners and internal staff to grow
@@ -41,13 +43,11 @@ Resposibilities include:
   introduction of different technologies. Work with existing and
   potential partners do develop business opportunities and new revenue
   streams.
-* Provide technical leadership for a portfolio of VML's clients
+* Provide technical leadership for a portfolio of VMLY&R's clients
   working to leverage technology and process improvements to provide
   value to those clients.
-* Manage a technology team of up to thirty technology professionals
-  including technical directors, technical architects, developers,
-  business analysts and quality assurance professionals that build and
-  maintain solutions for VML's clients.
+* Manage multiple teams of directors, architects, and developers that
+  build and maintain solutions for VMLY&R's clients.
 * Responsible for recruiting and hiring, team building, process
   improvements, estimation, resourcing and personnel and project
   management to ensure client project can be delivered on time and on
@@ -57,10 +57,10 @@ Resposibilities include:
   IT and marketing departments, writing technology proposals and
   participating in new business pitches and presentations.
 
-#### Contract Programmer - VML (RiverPoint)
+#### Contract Programmer - VMLY&R (RiverPoint)
 *August 2003 - August 2004*
 
-Develop and maintain Java web applications for clients of VML.
+Develop and maintain Java web applications for clients of VMLY&R.
 
 Responsibilities and achievements:
 
@@ -103,7 +103,7 @@ Responsibilities and achievements:
 My career at AG Edwards began as a Cobol programmer and progressed to
 a Programming Supervisor where I managed a group of developers and was
 responsible for a portion of the mainframe systems that managed stock
-and options trades. Toward the end of my career at AG Edwards I was a
+and options trading. Toward the end of my career at AG Edwards I was a
 Senior Technical Specialist where I provided technical and project
 leadership on special projects that included data warehousing and
 Java/JEE transactional systems.

@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Karl Kedrovsky"
 theme = "kedrovsky"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[permalinks]
+  blog = "/blog/:year/:month/:day/:title"
