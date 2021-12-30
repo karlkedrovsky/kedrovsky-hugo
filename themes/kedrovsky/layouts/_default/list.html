@@ -1,16 +1,19 @@
 {{ partial "header.html" . }}
-<section class="container mx-auto px-4 pt-4">
+<section class="container max-w-3xl mx-auto px-4 pt-4">
   <article class="pt-4">
-    {{ if .Title }}<h2 class="pb-4 font-heading font-hairline">{{ .Title }}</h2>{{ end }}
-    {{ .Content }}
+    {{ if .Title }}
+    <h2 class="pb-4 font-heading text-2xl">{{ .Title }}</h2>
+    {{ end }} {{ .Content }}
   </article>
 </section>
-<section class="container mx-auto px-4">
+<section class="container max-w-3xl mx-auto px-4">
   {{ range .Data.Pages }}
-    <article class="pt-4">
-      <h3 class="pb-4 font-heading font-hairline"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      {{ .Summary }}
-    </article>
+  <article class="pt-4">
+    <h3 class="pb-4 font-heading text-xl">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h3>
+    {{ .Summary }}
+  </article>
   {{ end }}
 </section>
 {{ partial "footer.html" . }}

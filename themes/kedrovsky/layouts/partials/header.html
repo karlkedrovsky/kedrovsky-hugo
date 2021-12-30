@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script defer src="/js/fa-brands.min.js"></script>
     <script src="/js/fontawesome.min.js"></script>
     <link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" />
   </head>
-<body class="font-sans">
-  <header class="container mx-auto px-4 pt-4">
-    <div class="border-b border-grey-light pb-4">
-      <h1 class="pb-4 font-heading font-hairline"><a href="/" class="text-black hover:no-underline">Karl Kedrovsky</a></h1>
-      <nav class="">
-        <ul class="list-reset flex">
-          <li class="mr-6 font-thin"><a href="/blog">Blog</a></li>
-          <li class="mr-6 font-thin"><a href="/resume">Resume</a></li>
-          <li class="mr-6 font-thin"><a href="/contact">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+  <body class="font-sans">
+    <header class="container max-w-3xl mx-auto px-4 pt-4">
+      <div class="border-b border-grey-light pb-4">
+        <h1 class="pb-4 font-heading text-4xl">
+          <a href="/" class="text-black hover:no-underline">Karl Kedrovsky</a>
+        </h1>
+        <nav class="">
+          <ul class="ml-0 pb-0 flex">
+            <li class="list-none mr-6 font-thin"><a href="/blog">Blog</a></li>
+            <li class="list-none mr-6 font-thin">
+              <a href="/resume">Resume</a>
+            </li>
+            <li class="list-none mr-6 font-thin">
+              <a href="/contact">Contact</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+  </body>
+</html>
