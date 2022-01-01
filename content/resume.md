@@ -6,20 +6,22 @@ weight: 20
 draft: false
 ---
 
-I'm a highly motivated self starter with experience in personnel and
-technical management, programming, analysis, systems architecture,
-technical design, testing, training/mentoring and project leadership. Most
-recently I've been focused on delivering sites based on open source
-content management systems, specifically Drupal. I also have extensive
-experience in Java/J2EE programming and architecture as well as
-providing technical leadership on large scale projects.
+I'm a highly motivated self starter with experience in personnel and technical
+management, programming, analysis, systems architecture, technical design,
+testing, training/mentoring and project leadership. Most recently I've been
+focused on delivering solutions based on open source technologies, Drupal being
+the most common CMS platform.  I also have extensive experience in enterprise
+and application architecture, and provide organizational and technical
+leadership on large scale projects.
 
 ### Work Experience
 
 #### VMLY&R - Managing Director Of Technology - Solutions Architect 
 *August 2004 - Present*
  
-Manage multiple groups of technologists responsible for delivering technical project implementations and provide leadership for the global software development and architecture practice.
+Manage multiple groups of technologists responsible for delivering technical
+project implementations and provide leadership for the global software
+development and architecture practice.
 
 Resposibilities include:
 
@@ -39,10 +41,9 @@ Resposibilities include:
   on-boarding processes and operational and tooling improvements.
 * Work closely with external partners and internal staff to grow
   existing business by ensuring optimal technical implementations as
-  well as finding opportunities to expand the business through the
-  introduction of different technologies. Work with existing and
-  potential partners do develop business opportunities and new revenue
-  streams.
+  well as finding opportunities to expand the business by adding value to existing client solutions.
+* Work with existing and potential partners do develop business opportunities
+  and new revenue streams.
 * Provide technical leadership for a portfolio of VMLY&R's clients
   working to leverage technology and process improvements to provide
   value to those clients.
