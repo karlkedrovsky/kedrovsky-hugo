@@ -15,7 +15,7 @@ implementations. I provide organizational leadership, help manage the overall
 software development practice, and manage relationships with internal teams,
 clients, and technology partners. Technically I'm focused on open source
 solutions, with Drupal being the most common CMS platform, and I have extensive
-experience in enterprise and application architecture and manage projects
+experience in enterprise and application architecture and managing projects
 throughout the software development lifecycle.
 
 Personally I'm a Christian, husband (one wife - Martha) and father (two daughters - Abigail and Julia). We live in Overland Park KS, a suburb of Kansas City.
