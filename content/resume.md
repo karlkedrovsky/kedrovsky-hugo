@@ -65,10 +65,10 @@ Develop and maintain Java web applications for clients of VMLY&R.
 
 Responsibilities and achievements:
 
-* Developed new web application using Java, JSP, Struts, Hibernate and
-  Oracle that allowed users to enter, preview and publish the web
-  sites dynamic content.
-* Worked on a team that developed a data warehouse and reporting
+* Develop new web application using Java, JSP, Struts, Hibernate and
+  Oracle that allow users to enter, preview and publish the web
+  sites' dynamic content.
+* Working on a team developing a data warehouse and reporting
   application using Java, JSP, Oracle and Crystal Reports.
 * Various maintenance tasks involving Java, JSP, Javascript and
   Oracle.
@@ -85,16 +85,16 @@ Responsibilities and achievements:
 * Maintaining and administering the CVS source code repository.
 * Providing end user support for CVS including tool usage, best
   practices and process definition.
-* Created automated system for controlled builds which are then
+* Creating automated systems for controlled builds which are then
   promoted through the testing and production environments.
-* Implemented an internal web application using Perl, XML and MySQL
+* Implementing an internal web application using Perl, XML and MySQL
   allowing development teams to schedule controlled builds and
   deployments. The web application is also used to view the audit
   manifests produced by the build and deployment systems.
 * Providing support to development groups for build related activities
   including creating and maintaining Ant build files and version
   control strategies.
-* Developed a simple knowledge base system using Java, Struts and
+* Developing a simple knowledge base system using Java, Struts and
   Oracle for use by the Sprint PCS web application administration
   team.
         
@@ -113,9 +113,9 @@ Responsibilities and achievements:
 
 * Writing and maintaining Cobol programs and managing a team
   developers responsibly those systems.
-* Implemented a data warehousing system using the Informix database
+* Implementing a data warehousing system using the Informix database
   used for business intelligence reporting.
-* Led the development team that implemented a Java/JEE online trading
+* Leading the development team that implemented a Java/JEE online trading
   system.
 
 #### Programmer - Telmark Incorporated
