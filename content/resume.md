@@ -6,13 +6,14 @@ weight: 20
 draft: false
 ---
 
-I'm a highly motivated self starter with experience in personnel and technical
-management, programming, analysis, systems architecture, technical design,
-testing, training/mentoring, and project leadership. Most recently I've been
-focused on delivering solutions based on open source technologies, Drupal being
-the most common CMS platform.  I also have extensive experience in enterprise
-and application architecture, and provide organizational and technical
-leadership on large scale projects.
+I'm a highly motivated self starter focusing on building highly performant
+software delivery teams and technology engineering practices. I have
+experience in personnel and technical management, programming, analysis, systems
+architecture, technical design, testing, training/mentoring, and project
+leadership. Most recently I've been focused on delivering solutions based on
+open source technologies, Drupal being the most common CMS platform. I also have
+extensive experience in enterprise and application architecture, and provide
+organizational and technical leadership on large scale projects.
 
 ### Work Experience
 
