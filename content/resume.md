@@ -11,7 +11,7 @@ software delivery teams and technology engineering practices. I have
 experience in personnel and technical management, programming, analysis, systems
 architecture, technical design, testing, training/mentoring, and project
 leadership. Most recently I've been focused on delivering solutions based on
-open source technologies, Drupal being the most common CMS platform. I also have
+open source technologies such as Drupal, WordPress, and Laravel. I also have
 extensive experience in enterprise and application architecture, and provide
 organizational and technical leadership on large scale projects.
 
