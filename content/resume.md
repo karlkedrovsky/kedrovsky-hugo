@@ -7,7 +7,7 @@ draft: false
 ---
 
 I'm a highly motivated self starter focusing on building highly performant
-software delivery teams and technology engineering practices. I have
+software delivery teams, technology engineering practices, and technical consulting. I have
 experience in personnel and technical management, programming, analysis, systems
 architecture, technical design, testing, training/mentoring, and project
 leadership. Most recently I've been focused on delivering solutions based on
@@ -131,7 +131,14 @@ Responsibilities and achievements:
 * Managing external file transfers and performing other basic system
   administration duties.
 
+### Key Skills
+
+* Technical personnel and project management.
+* Application and systems architecture.
+* Languages - PHP, HTML/CSS/javascript, Java, Python.
+* Frameworks and Platforms - Laravel, Drupal, WordPress, Vue.js, Spring.
+
 ### Education
 
-Bachelor of Science in Computer Science (minor in Mathematics)  
+Bachelor of Science in Computer Science (minor in Mathematics)
 University of Missouri - Columbia
