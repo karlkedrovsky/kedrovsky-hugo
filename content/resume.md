@@ -133,6 +133,7 @@ Responsibilities and achievements:
 
 ### Key Skills
 
+* Organization/practice building and management.
 * Technical personnel and project management.
 * Application and systems architecture.
 * Languages - PHP, HTML/CSS/javascript, Java, Python.
