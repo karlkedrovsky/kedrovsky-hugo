@@ -136,7 +136,9 @@ Responsibilities and achievements:
 * Organization/practice building and management.
 * Technical personnel and project management.
 * Application and systems architecture.
-* Languages - PHP, HTML/CSS/javascript, Java, Python.
+* Process automation, CI/CD, IaC.
+* Processes and Tools - Scrum, Jira, Git, Ansible.
+* Languages - PHP, Java, Javascript, Python, HTML/CSS, SQL.
 * Frameworks and Platforms - Laravel, Drupal, WordPress, Vue.js, Spring.
 
 ### Education
