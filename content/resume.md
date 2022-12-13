@@ -59,6 +59,10 @@ Resposibilities include:
   responses, developing case studies, working directly with a client's
   IT and marketing departments, writing technology proposals, and
   participating in new business pitches and presentations.
+* Define and review application and system architecture for internal and client
+  implementations.
+* Lead and participate in the implementation of websites and API platforms using
+  technologies such as Drupal, WordPress, PHP/Laravel, and Java/Spring.
 
 #### Contract Programmer - VMLY&R (RiverPoint)
 *August 2003 - August 2004*
