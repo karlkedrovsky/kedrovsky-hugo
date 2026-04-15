@@ -1,4 +1,4 @@
-{{ partial "header.html" . }} {{ $baseurl := .Site.BaseURL | sanitizeurl }}
+{{ partial "header.html" . }} {{ $baseurl := .Site.BaseURL | urlize }}
 <section class="container max-w-3xl mx-auto px-4 pt-4">
   <article class="pt-4">
     {{ if .Title }}
